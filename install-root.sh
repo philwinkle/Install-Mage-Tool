@@ -1,5 +1,5 @@
 #!/bin/bash
-pear upgrade pear
+pear upgrade --force pear
 pear channel-discover pear.zfcampus.org
 pear install zfcampus/zf
 pear channel-discover pear.magetool.co.uk
