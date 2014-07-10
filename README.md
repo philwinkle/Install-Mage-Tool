@@ -9,11 +9,11 @@ This installer allows one to install Mage_Tool from the command prompt:
 
 **Regular user:**
 
-`curl -sS https://raw.github.com/philwinkle/Install-Mage-Tool/master/install-sudo.sh | sudo bash`
+`curl -sS https://raw.githubusercontent.com/philwinkle/Install-Mage-Tool/master/install-sudo.sh | sudo bash`
 
 **Root user:**
 
-`curl -sS https://raw.github.com/philwinkle/Install-Mage-Tool/master/install-root.sh | bash`
+`curl -sS https://raw.githubusercontent.com/philwinkle/Install-Mage-Tool/master/install-root.sh | bash`
 
 
 Many thanks to Alistair Stead.
